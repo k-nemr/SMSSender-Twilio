@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="D:/Trend/Java/work/SMS TwilioService/Twilio dependencies/commons-codec-1.6.jar"/>
+	<classpathentry kind="lib" path="D:/Trend/Java/work/SMS TwilioService/Twilio dependencies/commons-lang3-3.3.2.jar"/>
+	<classpathentry kind="lib" path="D:/Trend/Java/work/SMS TwilioService/Twilio dependencies/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="D:/Trend/Java/work/SMS TwilioService/Twilio dependencies/httpclient-4.2.6.jar"/>
+	<classpathentry kind="lib" path="D:/Trend/Java/work/SMS TwilioService/Twilio dependencies/httpcore-4.2.5.jar"/>
+	<classpathentry kind="lib" path="D:/Trend/Java/work/SMS TwilioService/Twilio dependencies/jackson-annotations-2.4.0.jar"/>
+	<classpathentry kind="lib" path="D:/Trend/Java/work/SMS TwilioService/Twilio dependencies/jackson-core-2.4.2.jar"/>
+	<classpathentry kind="lib" path="D:/Trend/Java/work/SMS TwilioService/Twilio dependencies/jackson-core-asl-1.9.3.jar"/>
+	<classpathentry kind="lib" path="D:/Trend/Java/work/SMS TwilioService/Twilio dependencies/jackson-databind-2.4.2.jar"/>
+	<classpathentry kind="lib" path="D:/Trend/Java/work/SMS TwilioService/Twilio dependencies/jackson-mapper-asl-1.9.3.jar"/>
+	<classpathentry kind="lib" path="D:/Trend/Java/work/SMS TwilioService/Twilio dependencies/jjwt-0.4.jar"/>
+	<classpathentry kind="lib" path="D:/Trend/Java/work/SMS TwilioService/Twilio dependencies/json-simple-1.1.jar"/>
+	<classpathentry kind="lib" path="D:/Trend/Java/work/SMS TwilioService/Twilio dependencies/slf4j-api-1.7.6.jar"/>
+	<classpathentry kind="lib" path="D:/Trend/Java/work/SMS TwilioService/Twilio dependencies/twilio-java-sdk-6.3.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
