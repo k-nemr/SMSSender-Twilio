@@ -196,11 +196,7 @@ public class Home extends javax.swing.JFrame {
         String mediaUrl = null;
 
         TwilioServiceImpl twilioService;
-        if (jCheckBox1.isSelected()) {
-            twilioService = new TwilioServiceImpl(jTextField2.getText(), jTextField3.getText(), jTextField4.getText());
-        } else {
-            twilioService = new TwilioServiceImpl();
-        }
+        twilioService = new TwilioServiceImpl(jTextField2.getText(), jTextField3.getText(), jTextField4.getText());
         String result = twilioService.sendSMS(toNumber, msgBody, mediaUrl);
         jTextArea3.setText(result);
     }                                        
