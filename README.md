@@ -1,4 +1,4 @@
-# SMSSender-Twilio
+# SMSSender -Twilio
 SMSSender-Twilio is a standalone Java project that allow using Twilio service to send SMS messages.
 
 # Usages
