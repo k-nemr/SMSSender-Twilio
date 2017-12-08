@@ -22,18 +22,6 @@ public class TwilioServiceImpl implements TwilioService {
 	private final String TWILIO_ACCOUNT_SID;
 	private final String TWILIO_AUTH_TOKEN;
 
-	public TwilioServiceImpl() {
-		/*this.TWILIO_PHONE_NUMBER = "+12014643842";
-         this.TWILIO_ACCOUNT_SID = "ACd7d51f5f73ba50a0623c8514837d7eb2";
-         this.TWILIO_AUTH_TOKEN = "1ff6fb716c156b87029f93583fdb1e74";*/
-		/*this.TWILIO_PHONE_NUMBER = "+12628854088";
-         this.TWILIO_ACCOUNT_SID = "AC7dc072a853d281b6310a14c2383009aa";
-         this.TWILIO_AUTH_TOKEN = "5050a1f3190c81770fd7b651b8dc51e8";*/
-		this.TWILIO_PHONE_NUMBER = "+16304266235";
-		this.TWILIO_ACCOUNT_SID = "ACca010f0daa52c900e8913289cde9ab0d";
-		this.TWILIO_AUTH_TOKEN = "a1d8b7a6538f750351304e7ac576a6ff";
-	}
-
 	public TwilioServiceImpl(String TWILIO_PHONE_NUMBER, String TWILIO_ACCOUNT_SID, String TWILIO_AUTH_TOKEN) {
 		this.TWILIO_PHONE_NUMBER = TWILIO_PHONE_NUMBER;
 		this.TWILIO_ACCOUNT_SID = TWILIO_ACCOUNT_SID;
